@@ -1,0 +1,10 @@
+duckdb>=1.1
+pandas>=2.1
+numpy>=1.26
+scikit-learn>=1.4
+pyarrow>=14
+tabulate>=0.9
+streamlit>=1.40
+plotly>=5.20
+xgboost>=2.0
+networkx>=3.2
